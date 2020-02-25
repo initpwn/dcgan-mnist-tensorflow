@@ -8,4 +8,5 @@ https://media.giphy.com/media/cUvYTGZb4XUqRqKXsS/giphy.gif
 Sample output of 50000 iterations [SVHN dataset] [Code slightly modified]
 
 https://media.giphy.com/media/jHmB1gHPWuMb0FbvZn/giphy.gif
+
 https://www.youtube.com/watch?v=Xehr9TBeJv4
